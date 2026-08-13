@@ -51,8 +51,9 @@ Localizations/
 | Назва | Тип | Мова перекладу | Статус | Посилання |
 |---|---|---|---|---|
 | Dear Zachary: A Letter to a Son About His Father | Фільм (документальний) | 🇺🇦 Українська | ✅ Завершено | [Перейти](movies/dear-zachary-a-letter-to-a-son-about-his-father/) |
+| South Central | Фільм (художній) | 🇺🇦 Українська | ✅ Завершено | [Перейти](movies/south-central/) |
 
-Наразі триває робота над наступним перекладом. Він з'явиться в цій таблиці після завершення — часткові версії не публікуються.
+Наразі триває робота над наступними перекладами. Вони з'являться в цій таблиці після завершення — часткові версії не публікуються.
 
 ---
 
@@ -124,8 +125,9 @@ Reason: this format works identically across Windows/Linux/macOS, contains no sp
 | Title | Type | Target Language | Status | Link |
 |---|---|---|---|---|
 | Dear Zachary: A Letter to a Son About His Father | Movie (documentary) | 🇺🇦 Ukrainian | ✅ Complete | [Open](movies/dear-zachary-a-letter-to-a-son-about-his-father/) |
+| South Central | Movie (fiction) | 🇺🇦 Ukrainian | ✅ Complete | [Open](movies/south-central/) |
 
-Another translation is currently in progress. It will be added to this table once finished — partial versions aren't published.
+Other translations are currently in progress. They will be added to this table once finished — partial versions aren't published.
 
 ---
 
